@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on new career
 - 📫 How to reach me flin22@myseneca.ca
 - 😄 Pronouns: 
-- ⚡ Fun fact: ...
+- ⚡ Linkedin: www.linkedin.com/in/fang-lin-341118321
 
 <!---
 fangfangcode/fangfangcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
