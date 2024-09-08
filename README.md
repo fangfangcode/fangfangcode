@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fangfangcode
 - 👀 I’m interested in ice skate
-- 🌱 I’m currently learning computer program
+- 🌱 I’m currently learning Computer Programming & Analysis in Seneca Polytechnic
 - 💞️ I’m looking to collaborate on new career
 - 📫 How to reach me flin22@myseneca.ca
 - 😄 Pronouns: 
